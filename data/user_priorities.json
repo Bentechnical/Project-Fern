@@ -1,0 +1,27 @@
+{
+  "SR449": {
+    "importance": "critical",
+    "notes": "User mentioned: I'm really concerned about contamination of local freshwater",
+    "added_from": "I'm really concerned about contamination of local freshwater"
+  },
+  "SR273": {
+    "importance": "critical",
+    "notes": "User mentioned: Our company needs to reduce carbon emissions",
+    "added_from": "Our company needs to reduce carbon emissions"
+  },
+  "SR586": {
+    "importance": "high",
+    "notes": "User mentioned: We want to improve employee diversity and inclusion",
+    "added_from": "We want to improve employee diversity and inclusion"
+  },
+  "SR437": {
+    "importance": "high",
+    "notes": "User mentioned: How can we reduce waste going to landfills?",
+    "added_from": "How can we reduce waste going to landfills?"
+  },
+  "SR207": {
+    "importance": "high",
+    "notes": "User mentioned: What about renewable energy usage?",
+    "added_from": "What about renewable energy usage?"
+  }
+}

@@ -11,7 +11,7 @@ from typing import List, Dict
 class GeminiChat:
     """Wrapper for Google Gemini chat completions"""
 
-    def __init__(self, api_key: str = None, model_name: str = "gemini-1.5-flash"):
+    def __init__(self, api_key: str = None, model_name: str = "gemini-2.0-flash"):
         """
         Initialize Gemini chat client
 
